@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Alok Hegde</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=5um4n7h&label=Profile%20views&color=0e75b6&style=flat" alt="5um4n7h" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alok1929&label=Profile%20views&color=0e75b6&style=flat" alt="alok1929" /> </p>
 
-<p align="left"> <a href="https://twitter.com/5um4n7h" target="blank"><img src="https://img.shields.io/twitter/follow/5um4n7h?logo=twitter&style=for-the-badge" alt="5um4n7h" /></a> </p>
 
 - 🌱 I’m currently a first year engineering student at Global Academy of technology
 
