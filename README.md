@@ -24,4 +24,4 @@
 
 ## About me:
 
-I am a first year engineering student, who writes articles, loves cooking and watching tv shows in his free time. I like learning about new technologies, and teaching myself how to work with them. I like contributing to opensource projects, and also am an advocate of privacy (not the lawyer kind though)
+I am a third year engineering student, who writes articles, loves cooking and watching tv shows in his free time. I like learning about new technologies, and teaching myself how to work with them. I like contributing to opensource projects, and also am an advocate of privacy (not the lawyer kind though)
