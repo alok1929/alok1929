@@ -3,7 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alok1929&label=Profile%20views&color=0e75b6&style=flat" alt="alok1929" /> </p>
 
 
-- 🌱 I’m currently a first year engineering student at Global Academy of technology
 
 - 💬 Ask me about **node js, python and machine learning **
 
