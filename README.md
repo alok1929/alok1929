@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **node js, python and machine learning **
 
-- 📫 Reach me - **alokhegde221@gmail.com**
+- 📫 Reach me - **alokhegde221@gmail.com** or **alok@framewise.ai**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,4 +23,4 @@
 
 ## About me:
 
-I am a third year engineering student, who writes articles, loves cooking and watching tv shows in his free time. I like learning about new technologies, and teaching myself how to work with them. I like contributing to opensource projects, and also am an advocate of privacy (not the lawyer kind though)
+Co-founder at framewise.ai
